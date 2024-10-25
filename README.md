@@ -41,6 +41,34 @@ Summary paragraph about me
 <img align="left" alt="inkscape" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" />
 <br />
 
+<div style="display: flex; gap: 10px;">
+  <div style="background-color: #ffffff; border-radius: 5px; padding: 5px;">
+    <img alt="R" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+  </div>
+  <div style="background-color: #ffffff; border-radius: 5px; padding: 5px;">
+    <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  </div>
+  <div style="background-color: #ffffff; border-radius: 5px; padding: 5px;">
+    <img alt="LaTex" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
+  </div>
+  <div style="background-color: #ffffff; border-radius: 5px; padding: 5px;">
+    <img alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  </div>
+  <div style="background-color: #ffffff; border-radius: 5px; padding: 5px;">
+    <img alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  </div>
+  <div style="background-color: #ffffff; border-radius: 5px; padding: 5px;">
+    <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  </div>
+  <div style="background-color: #ffffff; border-radius: 5px; padding: 5px;">
+    <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  </div>
+  <div style="background-color: #ffffff; border-radius: 5px; padding: 5px;">
+    <img alt="inkscape" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" />
+  </div>
+</div>
+<br clear="all" />
+
 <!--
 https://devicon.dev/
 -->
