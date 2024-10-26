@@ -32,8 +32,13 @@ Summary paragraph about me
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=r,python,bash,latex,sqlite,github,git,matlab" /> <br>
-    <img src="https://skillicons.dev/icons?i=regex,django,pytorch,sklearn,tensorflow " /><br>
+    <img src="https://skillicons.dev/icons?i=r,python,bash,latex,sqlite,github,git,matlab" />
+</div>
+
+<br>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=regex,django,pytorch,sklearn,tensorflow" />
 </div>
 
 
