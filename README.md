@@ -35,6 +35,32 @@ Summary paragraph about me
 ### Languages and Tools
 
 <br/>
+
+#### Languages
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=r" alt="R" title="R" width="40px" style="padding: 10px;" />
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" width="40px" style="padding: 10px;" />
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" width="40px" style="padding: 10px;" />
+    <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" title="LaTeX" width="40px" style="padding: 10px;" />
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite" width="40px" style="padding: 10px;" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="40px" style="padding: 10px;" />
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="40px" style="padding: 10px;" />
+    <img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" title="MATLAB" width="40px" style="padding: 10px;" />
+</div>
+
+<br>
+
+#### Frameworks and Tools
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=regex" alt="Regex" title="Regex" width="40px" style="padding: 10px;" />
+    <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django" width="40px" style="padding: 10px;" />
+    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" title="PyTorch" width="40px" style="padding: 10px;" />
+    <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" title="scikit-learn" width="40px" style="padding: 10px;" />
+    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" title="TensorFlow" width="40px" style="padding: 10px;" />
+</div>
+
+<!--
+<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=r,python,bash,latex,sqlite,github,git,matlab" />
 </div>
@@ -44,7 +70,7 @@ Summary paragraph about me
 <div align="center">
     <img src="https://skillicons.dev/icons?i=regex,django,pytorch,sklearn,tensorflow" />
 </div>
-
+-->
 
 #
 
