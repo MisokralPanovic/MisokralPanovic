@@ -45,11 +45,10 @@ Summary paragraph about me
     <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite" width="40px" style="padding: 10px;" />
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="40px" style="padding: 10px;" />
     <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="40px" style="padding: 10px;" />
-    <img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" title="MATLAB" width="40px" style="padding: 10px;" />
 </div>
 
 <br>
-
+<!--
 #### Frameworks and Tools
 <div align="center">
     <img src="https://skillicons.dev/icons?i=regex" alt="Regex" title="Regex" width="40px" style="padding: 10px;" />
@@ -58,6 +57,7 @@ Summary paragraph about me
     <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" title="scikit-learn" width="40px" style="padding: 10px;" />
     <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" title="TensorFlow" width="40px" style="padding: 10px;" />
 </div>
+-->
 
 <!--
 <br/>
@@ -78,12 +78,16 @@ Summary paragraph about me
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisokralPanovic&hide=React&langs_count=18&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=Obsidian" alt="top langs" />
 </div>
 
-<br>
+<be>
+
+<!--
 
 <details>
  <summary><h3>My Coding Journey</h3></summary>
    I learned everything during my PhD in molecular virology (from Unversity of Cambridge), but I am still figuring things out. Working on my data science and data analytics portfolio now.
 </details>
+
+-->
 
 <!--
 From the guy
